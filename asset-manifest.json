@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/beautifysql/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/beautifysql/static/js/main.d5c35a59.chunk.js",
+    "main.js.map": "/beautifysql/static/js/main.d5c35a59.chunk.js.map",
+    "runtime-main.js": "/beautifysql/static/js/runtime-main.dcaa4f86.js",
+    "runtime-main.js.map": "/beautifysql/static/js/runtime-main.dcaa4f86.js.map",
+    "static/js/2.d76450eb.chunk.js": "/beautifysql/static/js/2.d76450eb.chunk.js",
+    "static/js/2.d76450eb.chunk.js.map": "/beautifysql/static/js/2.d76450eb.chunk.js.map",
+    "static/js/3.26209953.chunk.js": "/beautifysql/static/js/3.26209953.chunk.js",
+    "static/js/3.26209953.chunk.js.map": "/beautifysql/static/js/3.26209953.chunk.js.map",
+    "index.html": "/beautifysql/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/beautifysql/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d76450eb.chunk.js.LICENSE.txt": "/beautifysql/static/js/2.d76450eb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/beautifysql/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcaa4f86.js",
+    "static/js/2.d76450eb.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d5c35a59.chunk.js"
+  ]
+}
